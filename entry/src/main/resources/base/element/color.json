@@ -1,0 +1,45 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#0B0F17"
+    },
+    {
+      "name": "base_background_gradient_start",
+      "value": "#121826"
+    },
+    {
+      "name": "base_background_gradient_end",
+      "value": "#0B0F17"
+    },
+    {
+      "name": "gauge",
+      "value": "#14B8A6"
+    },
+    {
+      "name": "text_primary",
+      "value": "#E6EAF2"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#A8B3CF"
+    },
+
+    {
+      "name": "button_bg_start",
+      "value": "#2563EB"
+    },
+    {
+      "name": "button_bg_end",
+      "value": "#9333EA"
+    },
+    {
+      "name": "button_bg_pressed",
+      "value": "#1E1B4B"
+    },
+    {
+      "name": "button_text",
+      "value": "#FFFFFF"
+    }
+  ]
+}

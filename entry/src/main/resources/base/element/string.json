@@ -1,0 +1,68 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "index_title",
+      "value": "HIIT Squat Trainer"
+    },
+    {
+      "name": "index_subtitle",
+      "value": "Customize your workout below 👇"
+    },
+    {
+      "name": "index_duration_label",
+      "value": "Workout duration (seconds)"
+    },
+    {
+      "name": "index_duration_placeholder",
+      "value": "e.g. 30"
+    },
+    {
+      "name": "index_target_label",
+      "value": "Target squats"
+    },
+    {
+      "name": "index_target_placeholder",
+      "value": "e.g. 15"
+    },
+    {
+      "name": "start_workout",
+      "value": "Start Workout"
+    },
+    {
+      "name": "main_pause",
+      "value": "Pause"
+    },
+    {
+      "name": "main_start",
+      "value": "Start"
+    },
+    {
+      "name": "main_reset",
+      "value": "Reset"
+    },
+    {
+      "name": "main_reps_label",
+      "value": "Reps"
+    },
+    {
+      "name": "text_motivation",
+      "value": "Workout Summary 🏁"
+    },
+    {
+      "name": "squat_trainer",
+      "value": "Squat Trainer"
+    }
+  ]
+}

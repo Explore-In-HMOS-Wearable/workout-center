@@ -1,0 +1,20 @@
+{
+  "float": [
+    {
+      "name": "page_text_font_size",
+      "value": "50fp"
+    },
+    {
+      "name": "button_font_size",
+      "value": "14fp"
+    },
+    {
+      "name": "timer_font_size",
+      "value": "30fp"
+    },
+    {
+      "name": "set_button_font_size",
+      "value": "12fp"
+    }
+  ]
+}
